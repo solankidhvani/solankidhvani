@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Dhvani Solanki👋
+# Hi, I'm Dhvani 👋
 
 I'm transitioning back into computational genomics and ML.
 
